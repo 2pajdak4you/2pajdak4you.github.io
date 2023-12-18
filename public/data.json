@@ -64,8 +64,8 @@
     },
     "Havaji":
     {
-        "posX": 4,
-        "posZ": -1,
+        "posX": -0.38,
+        "posZ": 0.1,
         "description": "Havaji su savezna država Sjedninjenih Država, i jedina njihova teritorija u Okeaniji. Sastoji se iz 180 ostrva, od kojih je 8 najvećih smatrano glavnim. Havaji imaju milion ipo stanovnika i dobar deo njihove ekonomije se sastoji od turizma, iako ljudi koji tamo žive generalno nisu zadovoljni sa turističkom pažnjom koju njihova država dobija. Klima je tropska, a dobar deo havajskih plaža su pod zaštitom. Amerika ih je (manje više) nasilno preuzela 1959, pre čega su bili monarhija.",
         "image": "./public/images/hawaii-img.jpg"
     }
