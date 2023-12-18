@@ -62,11 +62,11 @@
         "description": "Maunt fild je nacionalni park na Tasmanijskom ostrvu. Osnovan je 1916. i pokriva 160km kvadratnih. Izdržava neverovatan diverzitet flore i faune. Uključuje i planinu Fild Vest visine 1400m.",
         "image": "./public/images/field-img.jpeg"
     },
-    "Havaji":
+    "Velika Viktorijina Pustinja":
     {
         "posX": -0.38,
-        "posZ": 0.1,
-        "description": "Havaji su savezna država Sjedninjenih Država, i jedina njihova teritorija u Okeaniji. Sastoji se iz 180 ostrva, od kojih je 8 najvećih smatrano glavnim. Havaji imaju milion ipo stanovnika i dobar deo njihove ekonomije se sastoji od turizma, iako ljudi koji tamo žive generalno nisu zadovoljni sa turističkom pažnjom koju njihova država dobija. Klima je tropska, a dobar deo havajskih plaža su pod zaštitom. Amerika ih je (manje više) nasilno preuzela 1959, pre čega su bili monarhija.",
-        "image": "./public/images/hawaii-img.jpg"
+        "posZ": -0.1,
+        "description": "Velika Viktorijina Pustinja se nalazi u juznoj Australiji, pokriva povrsinu od 420.000km kvadratnih. Prvi evropski istraživač koji je prošao kroz pustinju bio je Englez Ernest Džajls 1875, a pustinji je dao naziv po britanskoj kraljici Viktoriji. U pustinji dominiraju longitudinalne dine visoke 10-30 m, sa pravcem pružanja severozapad-jugoistok. Ovde žive autohtona plemena — Kogara i Mirning.",
+        "image": "./public/images/victoria-img.jpg"
     }
 }
