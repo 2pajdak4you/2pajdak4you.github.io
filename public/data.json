@@ -66,7 +66,7 @@
     {
         "posX": -0.38,
         "posZ": -0.1,
-        "description": "Velika Viktorijina Pustinja se nalazi u juznoj Australiji, pokriva povrsinu od 420.000km kvadratnih. Prvi evropski istraživač koji je prošao kroz pustinju bio je Englez Ernest Džajls 1875, a pustinji je dao naziv po britanskoj kraljici Viktoriji. U pustinji dominiraju longitudinalne dine visoke 10-30 m, sa pravcem pružanja severozapad-jugoistok. Ovde žive autohtona plemena — Kogara i Mirning.",
+        "description": "Velika Viktorijina Pustinja se nalazi u južnoj Australiji, pokriva površinu od 420.000km kvadratnih. Prvi evropski istraživač koji je prošao kroz pustinju bio je Englez Ernest Džajls 1875, a pustinji je dao naziv po britanskoj kraljici Viktoriji. U pustinji dominiraju longitudinalne dine visoke 10-30 m, sa pravcem pružanja severozapad-jugoistok. Ovde žive autohtona plemena — Kogara i Mirning.",
         "image": "./public/images/victoria-img.jpg"
     }
 }
