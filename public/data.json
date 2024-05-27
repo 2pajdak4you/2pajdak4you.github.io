@@ -4,21 +4,21 @@
         "posX": 0.6,
         "posZ": -0.15,
         "description": "",
-        "image": "./public/images/uluru-img.jpg"
+        "image": "https://www.srbijapodlupom.com/wp-content/uploads/2021/05/IMG-20210531-WA0004-696x696.jpg"
     },
     "Staro selo Sirogojno":
     {
         "posX": -0.5,
         "posZ": 0.3,
         "description": "",
-        "image": "./public/images/uluru-img.jpg"
+        "image": "https://media.zlatibor.org.rs/images/article_photos/117/tablet_5421498230834966.jpg"
     },
     "Stopića Pećina":
     {
         "posX": -0.45,
         "posZ": 0.25,
         "description": "",
-        "image": "./public/images/uluru-img.jpg"
+        "image": "https://media.zlatibor.org.rs/images/article_photos/13/tablet_11971515051363428.jpg"
     },
     "Nacionalni park Tara":
     {
@@ -26,7 +26,7 @@
         "posZ": 0.25,
         "posY": 0.15,
         "description": "",
-        "image": "./public/images/uluru-img.jpg"
+        "image": "https://nptara.rs/images/tara3.jpg"
     },
     "Uvac":
     {
@@ -34,28 +34,28 @@
         "posZ": 1.2,
         "posY": 0.1,
         "description": "",
-        "image": "./public/images/uluru-img.jpg"
+        "image": "https://kompaskazesrbija.rs/wp-content/uploads/2019/01/Specijalni-rezervat-prirode-Uvac-meandri.jpg"
     },
     "Park prirode Golija":
     {
         "posX": 0.7,
         "posZ": 0.8,
         "description": "",
-        "image": "./public/images/uluru-img.jpg"
+        "image": "https://golija-studenica.srbijasume.rs/images/gal2.jpg"
     },
     "Narodni muzej u Užicu":
     {
         "posX": -0.4,
         "posZ": 0.25,
         "description": "",
-        "image": "./public/images/uluru-img.jpg"
+        "image": "https://kasadoo.com/assets/site/images/Serbia/U--ice/Sights/National-Museum/narodni-muzej-uzice.jpg"
     },
     "Narodni muzej u Valjevu":
     {
         "posX": -0.55,
         "posZ": -0.65,
         "description": "",
-        "image": "./public/images/uluru-img.jpg"
+        "image": "https://www.kolubarske.rs/images/cache/770x515/crop/images%7Ccms-image-000007180.jpg"
     },
     "Zavičajni muzej u Novoj Varoši":
     {
@@ -63,21 +63,21 @@
         "posZ": 1.3,
         "posY": 0.05,
         "description": "",
-        "image": "./public/images/uluru-img.jpg"
+        "image": "https://static.zlatarinfo.rs/images/2014-05-10/1399742787_2629.jpg"
     },
     "Trsić":
     {
         "posX": -0.8,
         "posZ": -1.5,
         "description": "",
-        "image": "./public/images/uluru-img.jpg"
+        "image": "https://lh3.googleusercontent.com/proxy/7qiTdVLRijsanTlWbP-6x88FuYigRB9NToiWPsHtMOHFXohVKc5oCqMgLAbjeH2aZOGqcEQVbtXvdg5Vm1hL5jjVwLgAMfP86Mw"
     },
     "Fakultet tehničkih nauka u Čačku":
     {
         "posX": 0.65,
         "posZ": -0.15,
         "description": "",
-        "image": "./public/images/uluru-img.jpg"
+        "image": "https://n2.rs/wp-content/uploads/2021/03/fakultet-tehnickih-nauka-cacak.jpg"
     },
     "Manastir Mileševa":
     {
@@ -85,7 +85,7 @@
         "posZ": 1.4,
         "posY": 0.11,
         "description": "",
-        "image": "./public/images/uluru-img.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mileseva_Monastery_2.JPG/1200px-Mileseva_Monastery_2.JPG"
     },
     "Hram Vaznesenja Hristovog":
     {
