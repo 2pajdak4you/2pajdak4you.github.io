@@ -53,7 +53,7 @@
     "Narodni muzej u Valjevu":
     {
         "posX": -0.55,
-        "posZ": -0.35,
+        "posZ": -0.65,
         "description": "",
         "image": "./public/images/uluru-img.jpg"
     },
@@ -90,7 +90,7 @@
     "Hram Vaznesenja Hristovog":
     {
         "posX": -0.57,
-        "posZ": -0.38,
+        "posZ": -0.68,
         "description": "",
         "image": "./public/images/uluru-img.jpg"
     },
