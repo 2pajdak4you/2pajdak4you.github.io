@@ -38,43 +38,44 @@
     },
     "Park prirode Golija":
     {
-        "posX": 0,
-        "posZ": 0,
+        "posX": 0.6,
+        "posZ": 0.8,
         "description": "",
         "image": "./public/images/uluru-img.jpg"
     },
-    "Narodni muzej Užice":
+    "Narodni muzej u Užicu":
     {
-        "posX": 0,
-        "posZ": 0,
+        "posX": -0.4,
+        "posZ": 0.25,
         "description": "",
         "image": "./public/images/uluru-img.jpg"
     },
-    "Narodni muzej Valjevo":
+    "Narodni muzej u Valjevu":
     {
-        "posX": 0,
-        "posZ": 0,
+        "posX": -0.55,
+        "posZ": -0.2,
         "description": "",
         "image": "./public/images/uluru-img.jpg"
     },
-    "Zavičajni muzej":
+    "Zavičajni muzej u Novoj Varoši":
     {
-        "posX": 0,
-        "posZ": 0,
+        "posX": -0.45,
+        "posZ": 1.3,
+        "posY": 0.1,
         "description": "",
         "image": "./public/images/uluru-img.jpg"
     },
     "Centar za kulturu u Valjevu":
     {
-        "posX": 0,
-        "posZ": 0,
+        "posX": -0.56,
+        "posZ": -0.2,
         "description": "",
         "image": "./public/images/uluru-img.jpg"
     },
     "Fakultet tehničkih nauka u Čačku":
     {
-        "posX": 0,
-        "posZ": 0,
+        "posX": 0.65,
+        "posZ": -0.15,
         "description": "",
         "image": "./public/images/uluru-img.jpg"
     },
