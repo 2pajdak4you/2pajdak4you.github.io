@@ -53,7 +53,7 @@
     "Narodni muzej u Valjevu":
     {
         "posX": -0.55,
-        "posZ": -0.25,
+        "posZ": -0.35,
         "description": "",
         "image": "./public/images/uluru-img.jpg"
     },
@@ -64,10 +64,10 @@
         "description": "",
         "image": "./public/images/uluru-img.jpg"
     },
-    "Centar za kulturu u Valjevu":
+    "Trsić":
     {
-        "posX": -0.57,
-        "posZ": -0.25,
+        "posX": -0.8,
+        "posZ": -0.8,
         "description": "",
         "image": "./public/images/uluru-img.jpg"
     },
@@ -89,14 +89,14 @@
     "Hram Vaznesenja Hristovog":
     {
         "posX": -0.57,
-        "posZ": -0.28,
+        "posZ": -0.38,
         "description": "",
         "image": "./public/images/uluru-img.jpg"
     },
     "Manastir Ćelije":
     {
         "posX": -0.57,
-        "posZ": -0.22,
+        "posZ": -0.31,
         "description": "",
         "image": "./public/images/uluru-img.jpg"
     },
