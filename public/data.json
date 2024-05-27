@@ -102,43 +102,43 @@
     },
     "Manastir Tronoša":
     {
-        "posX": 0,
-        "posZ": 0,
+        "posX": -0.8,
+        "posZ": -0.7,
         "description": "",
         "image": "./public/images/uluru-img.jpg"
     },
     "Manastir Studenica":
     {
-        "posX": 0,
-        "posZ": 0,
+        "posX": 0.65,
+        "posZ": 0.7,
         "description": "",
         "image": "./public/images/uluru-img.jpg"
     },
     "Stadion \"Lagator\"":
     {
-        "posX": 0,
-        "posZ": 0,
+        "posX": -0.9,
+        "posZ": -0.85,
         "description": "",
         "image": "./public/images/uluru-img.jpg"
     },
     "Nova Sportska Hala u Kosjeriću":
     {
-        "posX": 0,
-        "posZ": 0,
+        "posX": -0.55,
+        "posZ": -0.25,
         "description": "",
         "image": "./public/images/uluru-img.jpg"
     },
-    "Autoput A2":
+    "Autoput \"Miloš Veliki\"":
     {
-        "posX": 0,
-        "posZ": 0,
+        "posX": 0.55,
+        "posZ": 0.7,
         "description": "",
         "image": "./public/images/uluru-img.jpg"
     },
     "Moravski Koridor":
     {
-        "posX": 0,
-        "posZ": 0,
+        "posX": 0.75,
+        "posZ": -0.15,
         "description": "",
         "image": "./public/images/uluru-img.jpg"
     }
