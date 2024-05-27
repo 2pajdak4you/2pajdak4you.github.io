@@ -92,7 +92,7 @@
         "posX": -0.57,
         "posZ": -0.68,
         "description": "",
-        "image": "./public/images/uluru-img.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/%D0%92%D0%B0%D1%99%D0%B5%D0%B2%D0%BE%2C_%D0%A5%D1%80%D0%B0%D0%BC_%D0%92%D0%B0%D1%81%D0%BA%D1%80%D1%81%D0%B5%D1%9A%D0%B0_%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D1%9A%D0%B5%D0%B3.jpg"
     },
     "Manastir Ćelije":
     {
@@ -100,49 +100,49 @@
         "posZ": -0.31,
         "pozY": 0.01,
         "description": "",
-        "image": "./public/images/uluru-img.jpg"
+        "image": "https://www.danas.rs/wp-content/uploads/2019/09/2401.jpg"
     },
     "Manastir Tronoša":
     {
         "posX": -0.8,
         "posZ": -0.7,
-        "pozY": 0.01;
+        "pozY": 0.01,
         "description": "",
-        "image": "./public/images/uluru-img.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9A8y0nEqfZWgIHr-SmDntq1TvNPXz_kGXPAwiwHWxNg&s"
     },
     "Manastir Studenica":
     {
         "posX": 0.65,
         "posZ": 0.7,
         "description": "",
-        "image": "./public/images/uluru-img.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRejH4_0eLlIWM1od8Pr6Enhp-QG4gy3_mb7dJBOZ_1rw&s"
     },
     "Stadion \"Lagator\"":
     {
         "posX": -0.9,
         "posZ": -1.35,
         "description": "",
-        "image": "./public/images/uluru-img.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Wide_angle_view_of_Lagator_Stadium.jpg"
     },
     "Nova Sportska Hala u Kosjeriću":
     {
         "posX": -0.55,
         "posZ": -0.25,
         "description": "",
-        "image": "./public/images/uluru-img.jpg"
+        "image": "https://kosjericblog.wordpress.com/wp-content/uploads/2015/11/download-9.jpg"
     },
     "Autoput \"Miloš Veliki\"":
     {
         "posX": 0.55,
         "posZ": 0.7,
         "description": "",
-        "image": "./public/images/uluru-img.jpg"
+        "image": "https://www.dnevnik.rs/sites/default/files/styles/single_article_main_image/public/2019-08/Tan2019-8-17_183916376_6.jpg?itok=238vLJ3G"
     },
     "Moravski Koridor":
     {
         "posX": 0.75,
         "posZ": -0.15,
         "description": "",
-        "image": "./public/images/uluru-img.jpg"
+        "image": "https://ozonpress.net/wp-content/uploads/2018/10/Moravski-koridor_thumb.jpg"
     }
 }
