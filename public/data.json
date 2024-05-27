@@ -1,72 +1,144 @@
 {
-    "Uluru":
+    "Ovčarsko-kablarska klisura":
     {
-        "posX": -0.38,
-        "posZ": -0.3,
+        "posX": 0.6,
+        "posZ": -0.15,
         "description": "Uluru ili \"Ers Rok\" je peščana stena u centralnoj Australiji. Nalazi se u sred peščane ravnice 450km od Alis Springsa i nastao je kroz eolsko nanošenje peska. Obima je 9.4km i visok je 240 metara što ga čini najvišim kamenim monolitom na svetu. Uluru je sveto mesto za Australijske domordce, i jedno od najvažnijih turističkih destinacija u Australiji.",
         "image": "./public/images/uluru-img.jpg"
     },
-    "Veliki Koralni Greben":
+    "Staro selo Sirogojno":
     {
-        "posX": 0.3,
-        "posZ": -0.43,
-        "description": "Veliki koralni greben je grupa koralnih grebena na severnoistočnoj obali Australije. Prostire se na dužini od oko 2300km, što ga čini najvećim na svetu. CNN ga je nazvao jednim od sedam prirodnih čuda sveta. Greben podržava široku raznovrsnost vrsta i zbog čiste vode je veoma popularna turistička lokacija, pogotovo kod ronilaca. Uprkos tome i zaštiti od strane australijske vlade, greben se znatno smanjuje u poslednjih nekoliko godina od posledica zagađenja i koralnog izbeljivanja.",
-        "image": "./public/images/greatbarrier-img.jpg"
+        "posX": -0.5,
+        "posZ": 0.3,
+        "description": "Uluru ili \"Ers Rok\" je peščana stena u centralnoj Australiji. Nalazi se u sred peščane ravnice 450km od Alis Springsa i nastao je kroz eolsko nanošenje peska. Obima je 9.4km i visok je 240 metara što ga čini najvišim kamenim monolitom na svetu. Uluru je sveto mesto za Australijske domordce, i jedno od najvažnijih turističkih destinacija u Australiji.",
+        "image": "./public/images/uluru-img.jpg"
     },
-    "Sidnejska Opera":
+    "Stopića Pećina":
     {
-        "posX": 0.13,
-        "posZ": 0.1,
-        "description": "Sidnejska opera je poznata građevina koja se nalazi u Sidneju. Otvorena je 1979 i tokom godina je postala jedna od ikoničnih tačaka u Australiji. 2007 godine postala je deo UNESKO svetske baštine. Građena je u ekspresionističkom stilu i pokriva 18000 metara kvadratnih površine. Projektovao ju je Danski arhitekta Jern Ucon. Koštala je 102 miliona dolara i ima karakteristično lošu akustiku.",
-        "image": "./public/images/opera-img.jpg"
+        "posX": -0.45,
+        "posZ": 0.25,
+        "description": "Uluru ili \"Ers Rok\" je peščana stena u centralnoj Australiji. Nalazi se u sred peščane ravnice 450km od Alis Springsa i nastao je kroz eolsko nanošenje peska. Obima je 9.4km i visok je 240 metara što ga čini najvišim kamenim monolitom na svetu. Uluru je sveto mesto za Australijske domordce, i jedno od najvažnijih turističkih destinacija u Australiji.",
+        "image": "./public/images/uluru-img.jpg"
     },
-    "Pećine Svetlećih Crva Vaitomo":
+    "Nacionalni park Tara":
     {
-        "posX": 1.15,
-        "posZ": 0.71,
-        "description": "Vaitomo pećine su sistem pećina koje su dom određenoj vrsti svetlećih crva koje nastanjuju samo Novi Zeland. Pećine se nalaze na severnom ostrvu Novog Zelanda i veoma su popularna turistička atrakcija.",
-        "image": "./public/images/waitomo-img.jpg"
+        "posX": -1.25,
+        "posZ": 0.25,
+        "posY": 0.15,
+        "description": "Uluru ili \"Ers Rok\" je peščana stena u centralnoj Australiji. Nalazi se u sred peščane ravnice 450km od Alis Springsa i nastao je kroz eolsko nanošenje peska. Obima je 9.4km i visok je 240 metara što ga čini najvišim kamenim monolitom na svetu. Uluru je sveto mesto za Australijske domordce, i jedno od najvažnijih turističkih destinacija u Australiji.",
+        "image": "./public/images/uluru-img.jpg"
     },
-    "Hobbiton":
+    "Uvac":
     {
-        "posX": 1.11,
-        "posZ": 0.73,
-        "description": "Hobbiton je nekada bio set za filmove \"Gospodara Prstenova\" i \"Hobita\" a sada je turistička atrakcija. Nalazi se na severnom ostrvu Novog Zelanda u blizini grada Matamata. Ova farma je izabrana za set 1998 zbog njenog karakterističnog reljefa, koji je fluvijalnog porekla. Farma pokriva 5.5 hektara zemljišta, i otvorena je kao turistička atrakcija od 2002 godine.",
-        "image": "./public/images/hobbiton-img.jpg"
+        "posX": -0.45,
+        "posZ": 1.2,
+        "posY": 0.1,
+        "description": "Uluru ili \"Ers Rok\" je peščana stena u centralnoj Australiji. Nalazi se u sred peščane ravnice 450km od Alis Springsa i nastao je kroz eolsko nanošenje peska. Obima je 9.4km i visok je 240 metara što ga čini najvišim kamenim monolitom na svetu. Uluru je sveto mesto za Australijske domordce, i jedno od najvažnijih turističkih destinacija u Australiji.",
+        "image": "./public/images/uluru-img.jpg"
     },
-    "Planina Kuk":
+    "Park prirode Golija":
     {
-        "posX": 0.8,
-        "posZ": 0.92,
-        "description": "Planina Kuk, takođe nazvana i Aoraki je planina na južnom ostrvu Novog Zelanda, i ujedno najviša planina na Novom Zelandu. Njen nacionalni park je zajedno sa još nekoliko drugih deo UNESKO svetske baštine. Planina je veoma popularna među turistima, prvenstveno zbog planinarenja. Planinski venac Južni Alpi pokriva celo južno ostrvo Novog Zelanda. Visoka je 3717 metara.",
-        "image": "./public/images/kuk-img.jpg"
+        "posX": 0,
+        "posZ": 0,
+        "description": "Uluru ili \"Ers Rok\" je peščana stena u centralnoj Australiji. Nalazi se u sred peščane ravnice 450km od Alis Springsa i nastao je kroz eolsko nanošenje peska. Obima je 9.4km i visok je 240 metara što ga čini najvišim kamenim monolitom na svetu. Uluru je sveto mesto za Australijske domordce, i jedno od najvažnijih turističkih destinacija u Australiji.",
+        "image": "./public/images/uluru-img.jpg"
     },
-    "Piopiotahi":
+    "Narodni muzej Užice":
     {
-        "posX": 0.65,
-        "posZ": 0.92,
-        "description": "Piopiotahi, poznatiji kao Milford Saund je fjord na južnom ostrvu Novog Zelanda. On je najpopularnija destinacija na Novom Zelandu, i proglašena je kao najbolja 2008. godine. Pesnik Radjard Kipling ga je prozvao osmim svetskim čudom. Nalazi se 15 kilometara od mora i sadrži više vrhova i vodopada od kojih su najveći Slon (vrh, 1500m) i Bouen (vodopad, 170m). Klima je izrazito kišovita.",
-        "image": "/public/images/piopiotahi-img.jpg"
+        "posX": 0,
+        "posZ": 0,
+        "description": "Uluru ili \"Ers Rok\" je peščana stena u centralnoj Australiji. Nalazi se u sred peščane ravnice 450km od Alis Springsa i nastao je kroz eolsko nanošenje peska. Obima je 9.4km i visok je 240 metara što ga čini najvišim kamenim monolitom na svetu. Uluru je sveto mesto za Australijske domordce, i jedno od najvažnijih turističkih destinacija u Australiji.",
+        "image": "./public/images/uluru-img.jpg"
     },
-    "Fidži":
+    "Narodni muzej Valjevo":
     {
-        "posX": 2,
-        "posZ": -0.43,
-        "description": "Fidži je država arhipelag u Okeaniji. Ističe se zbog svojih prelepih plaža i neverovatnog potencijala za turizam. Zadrži više od 300 ostrva. Fidži primi više od milion turista svake godine i veliki deo njihove ekonomije se zasniva na turizmu, a najviše ih posećuju Australijanci. Dobili su nezavisnost od Velike Britanije 1970, i sad imaju oko 800.000 stanovnika.",
-        "image": "./public/images/fiji-img.jpg"
+        "posX": 0,
+        "posZ": 0,
+        "description": "Uluru ili \"Ers Rok\" je peščana stena u centralnoj Australiji. Nalazi se u sred peščane ravnice 450km od Alis Springsa i nastao je kroz eolsko nanošenje peska. Obima je 9.4km i visok je 240 metara što ga čini najvišim kamenim monolitom na svetu. Uluru je sveto mesto za Australijske domordce, i jedno od najvažnijih turističkih destinacija u Australiji.",
+        "image": "./public/images/uluru-img.jpg"
     },
-    "Maunt Fild":
+    "Zavičajni muzej":
     {
-        "posX": 0.05,
-        "posZ": 0.33,
-        "description": "Maunt fild je nacionalni park na Tasmanijskom ostrvu. Osnovan je 1916. i pokriva 160km kvadratnih. Izdržava neverovatan diverzitet flore i faune. Uključuje i planinu Fild Vest visine 1400m.",
-        "image": "./public/images/field-img.jpeg"
+        "posX": 0,
+        "posZ": 0,
+        "description": "Uluru ili \"Ers Rok\" je peščana stena u centralnoj Australiji. Nalazi se u sred peščane ravnice 450km od Alis Springsa i nastao je kroz eolsko nanošenje peska. Obima je 9.4km i visok je 240 metara što ga čini najvišim kamenim monolitom na svetu. Uluru je sveto mesto za Australijske domordce, i jedno od najvažnijih turističkih destinacija u Australiji.",
+        "image": "./public/images/uluru-img.jpg"
     },
-    "Havaji":
+    "Centar za kulturu u Valjevu":
     {
-        "posX": 4,
-        "posZ": -1,
-        "description": "Havaji su savezna država Sjedninjenih Država, i jedina njihova teritorija u Okeaniji. Sastoji se iz 180 ostrva, od kojih je 8 najvećih smatrano glavnim. Havaji imaju milion ipo stanovnika i dobar deo njihove ekonomije se sastoji od turizma, iako ljudi koji tamo žive generalno nisu zadovoljni sa turističkom pažnjom koju njihova država dobija. Klima je tropska, a dobar deo havajskih plaža su pod zaštitom. Amerika ih je (manje više) nasilno preuzela 1959, pre čega su bili monarhija.",
-        "image": "./public/images/hawaii-img.jpg"
+        "posX": 0,
+        "posZ": 0,
+        "description": "Uluru ili \"Ers Rok\" je peščana stena u centralnoj Australiji. Nalazi se u sred peščane ravnice 450km od Alis Springsa i nastao je kroz eolsko nanošenje peska. Obima je 9.4km i visok je 240 metara što ga čini najvišim kamenim monolitom na svetu. Uluru je sveto mesto za Australijske domordce, i jedno od najvažnijih turističkih destinacija u Australiji.",
+        "image": "./public/images/uluru-img.jpg"
+    },
+    "Fakultet tehničkih nauka u Čačku":
+    {
+        "posX": 0,
+        "posZ": 0,
+        "description": "Uluru ili \"Ers Rok\" je peščana stena u centralnoj Australiji. Nalazi se u sred peščane ravnice 450km od Alis Springsa i nastao je kroz eolsko nanošenje peska. Obima je 9.4km i visok je 240 metara što ga čini najvišim kamenim monolitom na svetu. Uluru je sveto mesto za Australijske domordce, i jedno od najvažnijih turističkih destinacija u Australiji.",
+        "image": "./public/images/uluru-img.jpg"
+    },
+    "Manastir Mileševa":
+    {
+        "posX": 0,
+        "posZ": 0,
+        "description": "Uluru ili \"Ers Rok\" je peščana stena u centralnoj Australiji. Nalazi se u sred peščane ravnice 450km od Alis Springsa i nastao je kroz eolsko nanošenje peska. Obima je 9.4km i visok je 240 metara što ga čini najvišim kamenim monolitom na svetu. Uluru je sveto mesto za Australijske domordce, i jedno od najvažnijih turističkih destinacija u Australiji.",
+        "image": "./public/images/uluru-img.jpg"
+    },
+    "Hram Vaznesenja Hristovog":
+    {
+        "posX": 0,
+        "posZ": 0,
+        "description": "Uluru ili \"Ers Rok\" je peščana stena u centralnoj Australiji. Nalazi se u sred peščane ravnice 450km od Alis Springsa i nastao je kroz eolsko nanošenje peska. Obima je 9.4km i visok je 240 metara što ga čini najvišim kamenim monolitom na svetu. Uluru je sveto mesto za Australijske domordce, i jedno od najvažnijih turističkih destinacija u Australiji.",
+        "image": "./public/images/uluru-img.jpg"
+    },
+    "Manastir Ćelije":
+    {
+        "posX": 0,
+        "posZ": 0,
+        "description": "Uluru ili \"Ers Rok\" je peščana stena u centralnoj Australiji. Nalazi se u sred peščane ravnice 450km od Alis Springsa i nastao je kroz eolsko nanošenje peska. Obima je 9.4km i visok je 240 metara što ga čini najvišim kamenim monolitom na svetu. Uluru je sveto mesto za Australijske domordce, i jedno od najvažnijih turističkih destinacija u Australiji.",
+        "image": "./public/images/uluru-img.jpg"
+    },
+    "Manastir Tronoša":
+    {
+        "posX": 0,
+        "posZ": 0,
+        "description": "Uluru ili \"Ers Rok\" je peščana stena u centralnoj Australiji. Nalazi se u sred peščane ravnice 450km od Alis Springsa i nastao je kroz eolsko nanošenje peska. Obima je 9.4km i visok je 240 metara što ga čini najvišim kamenim monolitom na svetu. Uluru je sveto mesto za Australijske domordce, i jedno od najvažnijih turističkih destinacija u Australiji.",
+        "image": "./public/images/uluru-img.jpg"
+    },
+    "Manastir Studenica":
+    {
+        "posX": 0,
+        "posZ": 0,
+        "description": "Uluru ili \"Ers Rok\" je peščana stena u centralnoj Australiji. Nalazi se u sred peščane ravnice 450km od Alis Springsa i nastao je kroz eolsko nanošenje peska. Obima je 9.4km i visok je 240 metara što ga čini najvišim kamenim monolitom na svetu. Uluru je sveto mesto za Australijske domordce, i jedno od najvažnijih turističkih destinacija u Australiji.",
+        "image": "./public/images/uluru-img.jpg"
+    },
+    "Stadion \"Lagator\"":
+    {
+        "posX": 0,
+        "posZ": 0,
+        "description": "Uluru ili \"Ers Rok\" je peščana stena u centralnoj Australiji. Nalazi se u sred peščane ravnice 450km od Alis Springsa i nastao je kroz eolsko nanošenje peska. Obima je 9.4km i visok je 240 metara što ga čini najvišim kamenim monolitom na svetu. Uluru je sveto mesto za Australijske domordce, i jedno od najvažnijih turističkih destinacija u Australiji.",
+        "image": "./public/images/uluru-img.jpg"
+    },
+    "Nova Sportska Hala u Kosjeriću":
+    {
+        "posX": 0,
+        "posZ": 0,
+        "description": "Uluru ili \"Ers Rok\" je peščana stena u centralnoj Australiji. Nalazi se u sred peščane ravnice 450km od Alis Springsa i nastao je kroz eolsko nanošenje peska. Obima je 9.4km i visok je 240 metara što ga čini najvišim kamenim monolitom na svetu. Uluru je sveto mesto za Australijske domordce, i jedno od najvažnijih turističkih destinacija u Australiji.",
+        "image": "./public/images/uluru-img.jpg"
+    },
+    "Autoput A2":
+    {
+        "posX": 0,
+        "posZ": 0,
+        "description": "Uluru ili \"Ers Rok\" je peščana stena u centralnoj Australiji. Nalazi se u sred peščane ravnice 450km od Alis Springsa i nastao je kroz eolsko nanošenje peska. Obima je 9.4km i visok je 240 metara što ga čini najvišim kamenim monolitom na svetu. Uluru je sveto mesto za Australijske domordce, i jedno od najvažnijih turističkih destinacija u Australiji.",
+        "image": "./public/images/uluru-img.jpg"
+    },
+    "Moravski Koridor":
+    {
+        "posX": 0,
+        "posZ": 0,
+        "description": "Uluru ili \"Ers Rok\" je peščana stena u centralnoj Australiji. Nalazi se u sred peščane ravnice 450km od Alis Springsa i nastao je kroz eolsko nanošenje peska. Obima je 9.4km i visok je 240 metara što ga čini najvišim kamenim monolitom na svetu. Uluru je sveto mesto za Australijske domordce, i jedno od najvažnijih turističkih destinacija u Australiji.",
+        "image": "./public/images/uluru-img.jpg"
     }
 }

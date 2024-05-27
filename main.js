@@ -35,6 +35,15 @@ async function Work() {
     const cube = new THREE.Mesh(geometry, material);
     const controls = new MapControls(camera, renderer.domElement);
     const loader = new GLTFLoader();
+    let texLoader = new THREE.TextureLoader();
+
+    let tex = texLoader.load('./public/gogoljmogolj-tex2.png');
+    tex.wrapS = THREE.RepeatWrapping;
+    tex.wrapT = THREE.RepeatWrapping;
+    tex.flipY = false;
+    const terrainMat = new THREE.MeshPhongMaterial({
+        map: tex
+    });
 
     const lightA = new THREE.AmbientLight(0xFFFFFF); // soft white light
     scene.add(lightA);
@@ -65,9 +74,12 @@ async function Work() {
         }
     }
 
-    loader.load('public/scene.gltf', function (gltf) {
-
-        scene.add(gltf.scene);
+    loader.load('public/gogoljmogolj2.gltf', function (gltf) {
+        
+        const model = gltf.scene;
+        model.children[0].material = terrainMat;
+        model.scale.set(.01, .01, .01);
+        scene.add(model);
 
     }, undefined, function (error) {
 
@@ -81,14 +93,13 @@ async function Work() {
 
         pinmodel = gltf.scene;
         pinmodel.scale.set(.02, .02, .02);
-        pinmodel.translateY(.17);
-        pinmodel.translateX(4);
-        pinmodel.translateZ(1.6);
+        pinmodel.translateY(.20);
         for (const x in data) {
             pinrefs[x] = pinmodel.clone();
             pinrefs[x].children[0].material = pinrefs[x].children[0].material.clone();
             pinrefs[x].translateX(data[x].posX);
             pinrefs[x].translateZ(data[x].posZ);
+            if (typeof data[x].posY != "undefined") pinrefs[x].translateY(data[x].posY);
             scene.add(pinrefs[x]);
         }
 
@@ -106,7 +117,7 @@ async function Work() {
     controls.minDistance = 1;
     controls.maxDistance = 1;
 
-    controls.maxPolarAngle = Math.PI / 2.4;
+    //controls.maxPolarAngle = Math.PI / 2.4;
 
     function onPointerMove(event) {
         pointer.x = (event.clientX / window.innerWidth) * 2 - 1;
